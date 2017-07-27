@@ -1,0 +1,17 @@
+{
+  "name": "weatherbot",
+  "version": "1.0.0",
+  "description": "robot qui donne la température",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "recastai": "^3.4.1",
+    "request": "^2.81.0",
+    "restify": "^5.0.1"
+  }
+}
